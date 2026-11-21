@@ -21,6 +21,27 @@ Ingeniero de Software/DevOps con **más de 10 años** desarrollando software par
 
 ---
 
+## 🏅 Certificaciones
+
+<a href="https://certdirectory.io/profile/diego-agustin-moreno?utm_source=github&utm_medium=readme">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://certdirectory.io/badge/diego-agustin-moreno.svg?style=card&theme=dark">
+    <img alt="Diego Agustín Moreno on CertDirectory" src="https://certdirectory.io/badge/diego-agustin-moreno.svg?style=card">
+  </picture>
+</a>
+
+- 🧑‍🚀 **Kubestronaut** (CNCF)
+- ☸️ **CKA** – Certified Kubernetes Administrator
+- ☸️ **CKAD** – Certified Kubernetes Application Developer
+- 🔐 **CKS** – Certified Kubernetes Security Specialist
+- ☁️ **KCNA** – Kubernetes and Cloud Native Associate
+- 🛡️ **KCSA** – Kubernetes and Cloud Native Security Associate
+- 🟧 **AWS Certified DevOps Engineer – Professional**
+- 🟦 **AWS Certified Developer – Associate**
+- 🐍 **PCAP** – Certified Associate in Python Programming (OpenEDG Python Institute)
+
+---
+
 ## 🧰 Tecnologías y herramientas
 
 **Orquestación y contenedores**
@@ -71,25 +92,6 @@ Ingeniero de Software/DevOps con **más de 10 años** desarrollando software par
 ![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white)
 
 ---
-
-## 🏅 Certificaciones
-
-<a href="https://certdirectory.io/profile/diego-agustin-moreno?utm_source=github&utm_medium=readme">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://certdirectory.io/badge/diego-agustin-moreno.svg?style=card&theme=dark">
-    <img alt="Diego Agustín Moreno on CertDirectory" src="https://certdirectory.io/badge/diego-agustin-moreno.svg?style=card">
-  </picture>
-</a>
-
-- 🧑‍🚀 **Kubestronaut** (CNCF)
-- ☸️ **CKA** – Certified Kubernetes Administrator
-- ☸️ **CKAD** – Certified Kubernetes Application Developer
-- 🔐 **CKS** – Certified Kubernetes Security Specialist
-- ☁️ **KCNA** – Kubernetes and Cloud Native Associate
-- 🛡️ **KCSA** – Kubernetes and Cloud Native Security Associate
-- 🟧 **AWS Certified DevOps Engineer – Professional**
-- 🟦 **AWS Certified Developer – Associate**
-- 🐍 **PCAP** – Certified Associate in Python Programming (OpenEDG Python Institute)
 
 <p align="center">💬 ¿Hablamos de Kubernetes, cloud native o telecom? Escríbeme o visita <a href="https://damv.dev">damv.dev</a>.</p>
 
